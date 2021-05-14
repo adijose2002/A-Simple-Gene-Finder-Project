@@ -7,7 +7,6 @@ CS/BIOS 112 - Project 01
    
 
 @author:    <Adithya Jose>
-UIC NetID:  <668871768>
 Due Date:   <10/12/2020>
 """
 
